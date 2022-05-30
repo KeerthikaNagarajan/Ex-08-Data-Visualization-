@@ -19,4 +19,13 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 
+
 # OUPUT
+## Reading the given dataset:
+
+## Data Visualization Using Seaborn:
+
+## Data Visualization Using Matplotlib:
+
+# RESULT:
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
