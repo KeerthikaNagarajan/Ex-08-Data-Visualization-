@@ -179,12 +179,26 @@ plt.show()
 
 ## Data Visualization Using Matplotlib:
 ### 1.Plot
+<img width="268" alt="1" src="https://user-images.githubusercontent.com/93427089/171088777-b33aa92c-b4f2-4b2e-af45-c86899df03c9.png">
+
 ### 2.Heatmap
+<img width="381" alt="2" src="https://user-images.githubusercontent.com/93427089/171088793-a39c19c3-f481-4837-a9ab-c59bbbb80b72.png">
+
 ### 3.Piechart
+<img width="168" alt="3" src="https://user-images.githubusercontent.com/93427089/171088813-8407fd7d-2c62-41f5-9e0d-25242f9576ac.png">
+<img width="288" alt="3ii" src="https://user-images.githubusercontent.com/93427089/171088875-f1b23ed9-0c39-4061-aeeb-bd21c3943308.png">
+
 ### 4.Histogram
+<img width="245" alt="4" src="https://user-images.githubusercontent.com/93427089/171088893-37660289-6bfa-4274-94b9-f9c10373a8a4.png">
+
 ### 5.Bargraph
+<img width="279" alt="5" src="https://user-images.githubusercontent.com/93427089/171088899-506a8bfe-128b-44a6-aea9-6ad9d68d27e7.png">
+
 ### 6.Scatterplot
+<img width="248" alt="6" src="https://user-images.githubusercontent.com/93427089/171088911-4bc14fcd-490e-40bc-a732-d8e733ca4713.png">
+
 ### 7.Boxplot
+<img width="261" alt="7" src="https://user-images.githubusercontent.com/93427089/171088927-6bb49da4-25fe-4f10-8dab-11a1f0b68c88.png">
 
 # RESULT:
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
